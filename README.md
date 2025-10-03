@@ -2,10 +2,15 @@
 
 ![C#](https://img.shields.io/badge/C%23-30.12%25-blue?style=for-the-badge&logo=c-sharp)
 
+
 ![C++](https://img.shields.io/badge/C++-23.02%25-red?style=for-the-badge&logo=cplusplus)
+
 ![HTML](https://img.shields.io/badge/HTML-18%25-orange?style=for-the-badge&logo=html5)
+
 ![Python](https://img.shields.io/badge/Python-17.52%25-yellow?style=for-the-badge&logo=python)
+
 ![Assembly](https://img.shields.io/badge/Assembly-7.56%25-grey?style=for-the-badge)
+
 ![CSS](https://img.shields.io/badge/CSS-3.77%25-purple?style=for-the-badge&logo=css3)
 <!--
 **Axinte8543/Axinte8543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
