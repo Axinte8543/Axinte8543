@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axinte8543&show_icons=true&locale=en&layout=compact&theme=radical)
+
 <!--
 **Axinte8543/Axinte8543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
